@@ -1,0 +1,13 @@
+.idea
+.svn
+.project
+.DS_Store
+target
+node_modules
+package-lock.json
+yarn-error.log
+npm-debug.log
+.vscode
+reports
+*.iml
+statics
